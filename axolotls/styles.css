@@ -1,0 +1,39 @@
+p {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  line-height: normal;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-size: 30px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+a {
+  color: #1BC1BF;
+}
+
+hr {
+  border: 2px solid #6D0F31;
+}
+
+.panel {
+  scroll-behavior: smooth;
+  padding: 3em;
+}
+
+.onep {
+  background-color: #FFA0A0;
+}
+
+.onep h1, .onep p {
+  text-align: center;
+}
+
+.twop {
+  background-color: #EDEDED;
+}
+
+.threep {
+  background-color: #EF7C8A;
+}
