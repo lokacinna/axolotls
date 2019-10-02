@@ -26,7 +26,7 @@ hr {
   background-color: #FFA0A0;
 }
 
-.onep h1, .onep p {
+.onep h1, .onep h2, .onep h3, .onep p {
   text-align: center;
 }
 
@@ -36,4 +36,15 @@ hr {
 
 .threep {
   background-color: #EF7C8A;
+}
+
+.natp {
+  background-color: black;
+  border: 2px solid yellow;
+}
+
+.natgeo {
+  color: yellow;
+  text-transform: capitalize;
+  padding: 10px;
 }
