@@ -6,7 +6,7 @@ var quizJSON = {
     "info": {
         "name":    "Test Your Knowledge With a Quiz!",
         "main":    "<p>Think you've learned all there is to know? Find out!</p>",
-        "results": "<h5>Learn More</h5><p>Etiam scelerisque, nunc ac egestas consequat, odio nibh euismod nulla, eget auctor orci nibh vel nisi. Aliquam erat volutpat. Mauris vel neque sit amet nunc gravida congue sed sit amet purus.</p>",
+        "results": "<h5>Learn More</h5><p>Axolotls are amazing animals. Keep scrolling to view a National Geographic video of these wonderful creatures.</p>",
         "level1":  "Ready for an Axie!",
         "level2":  "Could use a little more research, but you're almost there!",
         "level3":  "Fill those gaps in your knowledge!",
